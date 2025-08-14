@@ -11,7 +11,7 @@ Now that I understand the basics of networking, it's time to apply these concept
 ### 🛠️ Tools and Commands Used
 
 - **Pwnbox (Parrot OS)** – Cloud-based working environment.
-- **ip / ifconfig** – View network interfaces.
+- **ifconfig** – View network interfaces.
 - **ping** – Check connectivity.
 - **traceroute** – Trace routes to external domains.
 
