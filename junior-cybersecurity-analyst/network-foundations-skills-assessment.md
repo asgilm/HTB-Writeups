@@ -1,12 +1,10 @@
-# 🧪 Writeup: [Module or Assessment]
+# 🧪 Writeup: Network Foundations
 
 ---
 
 ### 🧠 Objective
 
-[Describe brevemente el propósito principal del laboratorio. Ejemplo:]
-
-Get familiar with the Pwnbox lab environment and practice basic network commands on a Linux system.
+Now that I understand the basics of networking, it's time to apply these concepts in a real-life situation. I'll explore the networks behind HTB Academy's lab environments.
 
 ---
 
